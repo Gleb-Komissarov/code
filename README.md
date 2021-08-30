@@ -13,6 +13,8 @@ sudo sysctl -w vm.max_map_count=262144
 docker-compose up
 ```
 
+Kibana can be accessed at `localhost:5601`
+
 ### Requirements met
  - Software versions ✓
  - OS ✓
