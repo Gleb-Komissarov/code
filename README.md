@@ -1,3 +1,7 @@
+### Requirements  
+ - `Docker`
+ - `docker-compose`
+
 ### Installation and startup
 
 ```
